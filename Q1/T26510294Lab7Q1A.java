@@ -22,4 +22,4 @@ public class IT26510294Lab7Q1A {
             System.out.println("Grade = Fail");
     }
 }
-```
+
